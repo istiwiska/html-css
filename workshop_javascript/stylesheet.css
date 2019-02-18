@@ -1,0 +1,27 @@
+body{
+	margin-top: 10px;
+	padding: 10px;
+}
+h1.title{
+	color: red;
+}
+
+p{
+	margin: 0px;
+}
+
+p.title{
+	color: white;
+	background-color: red;
+	margin-top: 10px;
+	padding: 10px;
+}
+
+p.atas{
+	background-color: pink;
+	margin-top: 10px;
+}
+
+p.bawah{
+	background-color: blue;
+}
